@@ -506,7 +506,7 @@ svg {
 
 .cloud2 {
 	animation: cloud2 3s ease-in-out infinite alternate;
-	animation-delay: -0.5s;
+	animation-delay: 0.5s;
 	transform: translate(-52%, -50%) scale(0.35) rotate(1deg);
 }
 @keyframes cloud2 {
@@ -520,7 +520,7 @@ svg {
 
 .cloud3 {
 	animation: cloud3 5s ease-in-out infinite alternate;
-	animation-delay: -0.7s;
+	animation-delay: 0.7s;
 	transform: translate(-44%, -50%) scale(0.41) rotate(3deg);
 }
 @keyframes cloud3 {
@@ -534,7 +534,7 @@ svg {
 
 .cloud4 {
 	animation: cloud4 4s ease-in-out infinite alternate;
-	animation-delay: -1;
+	animation-delay: 1s;
 	transform: translate(-25%, -48%) scale(0.32) rotate(-2deg);
 }
 @keyframes cloud4 {
