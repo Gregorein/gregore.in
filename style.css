@@ -492,7 +492,7 @@ svg {
 	pointer-events: none;
 }
 .cloud1 {
-	animation: cloud1 6s ease-in-out infinite alternate;
+	animation: cloud1 3s ease-in-out infinite alternate;
 	transform: translate(-52%, -50%) scale(0.32) rotate(-2deg);
 }
 @keyframes cloud1 {
@@ -505,7 +505,7 @@ svg {
 }
 
 .cloud2 {
-	animation: cloud2 3s ease-in-out infinite alternate;
+	animation: cloud2 1.3s ease-in-out infinite alternate;
 	animation-delay: 0.5s;
 	transform: translate(-52%, -50%) scale(0.35) rotate(1deg);
 }
@@ -519,7 +519,7 @@ svg {
 }
 
 .cloud3 {
-	animation: cloud3 5s ease-in-out infinite alternate;
+	animation: cloud3 2.5s ease-in-out infinite alternate;
 	animation-delay: 0.7s;
 	transform: translate(-44%, -50%) scale(0.41) rotate(3deg);
 }
@@ -533,7 +533,7 @@ svg {
 }
 
 .cloud4 {
-	animation: cloud4 4s ease-in-out infinite alternate;
+	animation: cloud4 2s ease-in-out infinite alternate;
 	animation-delay: 1s;
 	transform: translate(-25%, -48%) scale(0.32) rotate(-2deg);
 }
