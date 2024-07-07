@@ -556,11 +556,14 @@ nav {
 	padding: 10px;
 }
 a, p {
-  font-family: "Libre Barcode 128 Text", system-ui;
   font-weight: 400;
   font-style: normal;
 }
+p {
+  font-family: "Libre Barcode 128 Text", system-ui;
+}
 a {
+  font-family: "Jaro", system-ui;
 	transition:
 		background 0.3s ease-in,
 		opacity 0.3s ease-in,
@@ -572,7 +575,7 @@ a {
 	padding: 10px;
 
 	height: 72px;
-	font-size: 48px;
+	font-size: 28px;
 
 	text-decoration: none;
 
